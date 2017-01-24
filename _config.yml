@@ -35,10 +35,10 @@ paginate_path: /page:num/
 analytics: UA-90606193-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: cleroythomas
 
 #social
-facebook: http://facebook.com/webjeda
+facebook: http://facebook.com/cityplanningtech
 quora: http://quora.com/sharathdt
 twitter: http://twitter.com/@webjeda
 github: http://github.com/webjeda
