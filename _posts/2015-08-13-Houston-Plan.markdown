@@ -6,7 +6,9 @@ categories: Urban Planning
 img: houstonskyline.png
 categories: [one, two]
 ---
-**Plan Houston differs from a more traditional general plan in 3 fundamental areas** Plan Houston was recently approved by the Houston Planning Commission and released on the the website http://planhouston.org/ . Described as “Houston's first general plan” the plan consists of 12 core strategies and related action items. It is my contention that this document is categorically different from what is described as a general or comprehensive plan in the urban planning literature and as is seen in what is called a general plan in other cities. This is not intended as a criticism. This document is closer to what is sometimes referred to as a “visioning” or “statement of goals” document and as such it could provide a powerful basis for a more comprehensive plan in the future.
+**Plan Houston differs from a more traditional general plan in 3 fundamental areas** 
+
+Plan Houston was recently approved by the Houston Planning Commission and released on the the website http://planhouston.org/ . Described as “Houston's first general plan” the plan consists of 12 core strategies and related action items. It is my contention that this document is categorically different from what is described as a general or comprehensive plan in the urban planning literature and as is seen in what is called a general plan in other cities. This is not intended as a criticism. This document is closer to what is sometimes referred to as a “visioning” or “statement of goals” document and as such it could provide a powerful basis for a more comprehensive plan in the future.
 
 There are three fundamental differences between Plan Houston and what is often referred to as a general plan, comprehensive or strategic city plan and these differences severely impact its effectiveness as a “plan” that can actually be enacted. The first is that there is nothing in Plan Houston or in the legal code pertaining to it that is “prescriptive”, meaning that there is no mechanism for enforcing the goals enumerated in the plan.
 
