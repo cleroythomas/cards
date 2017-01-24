@@ -3,7 +3,7 @@ layout: post
 title:  "Plan Houston differs from a more traditional general plan in 3 fundamental areas"
 date:   2015-08-13 10:51:47 +0530
 categories: Urban Planning
-img: image-1.png
+img: houstonskyline.png
 categories: [one, two]
 ---
 **Plan Houston differs from a more traditional general plan in 3 fundamental areas** Plan Houston was recently approved by the Houston Planning Commission and released on the the website http://planhouston.org/ . Described as “Houston's first general plan” the plan consists of 12 core strategies and related action items. It is my contention that this document is categorically different from what is described as a general or comprehensive plan in the urban planning literature and as is seen in what is called a general plan in other cities. This is not intended as a criticism. This document is closer to what is sometimes referred to as a “visioning” or “statement of goals” document and as such it could provide a powerful basis for a more comprehensive plan in the future.
