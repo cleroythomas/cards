@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: City Planning Tech.com 
-email: cleroythomas@gmail.com
+title: CityPlanningTech.com 
+email: chuck@cityplanningtech.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  A blog dedicated to planning issues in the Austin/Houston/San Antonio region, along with emerging technologies and a weekly review of Urban Planning Sholarly Journals  
   
   
   
