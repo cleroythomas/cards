@@ -1,24 +1,13 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "Bee Caves Grumbles Tract Denied"
 categories: jekyll update
-img: image-2.png
-categories: two
+img: beecaves_grumbletract_020417_as.png
+categories: Austin
 ---
 
-Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
+Bee Caves Grumbles Tract Denied
 
-## Image
+http://www.statesman.com/news/local/bee-cave-council-denies-128-acre-subdivision-grumbles-tract/yhLiIvFg4kNjowIXH1w0AI/
 
-- Use image of ratio 400x250 (800x500). 
-- Keep them inside ``images`` folder.
-- Mention image name in the front matter as shown below
-
-{% highlight yml %}
----
-layout: post
-title:  "Some title"
-categories: some category
-img: image-name.jpg
----
-{% endhighlight %}
+The Bee Cave City Council denied a development agreement to place a single-family rural subdivision on the 128.3-acre tract off of Hamilton Pool Road known as the Grumbles tract, reasoning the 74 planned lots were not far enough apart to strike as “rural” a tone as the zoning designation would imply.
