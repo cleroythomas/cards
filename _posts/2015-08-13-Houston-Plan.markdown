@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plan Houston differs from a more traditional general plan in 3 fundamental areas"
+title:  "Plan Houston differs from general plan"
 date:   2015-08-13 10:51:47 +0530
 categories: Urban Planning
 img: planhouston.png
