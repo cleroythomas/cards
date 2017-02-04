@@ -3,7 +3,7 @@ layout: post
 title:  "Plan Houston differs from a more traditional general plan in 3 fundamental areas"
 date:   2015-08-13 10:51:47 +0530
 categories: Urban Planning
-img: houstonskyline.png
+img: planhouston.png
 categories: [one, two]
 ---
 **Plan Houston differs from a more traditional general plan in 3 fundamental areas** 
