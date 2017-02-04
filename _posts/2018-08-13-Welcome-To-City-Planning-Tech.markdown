@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to CityPlanningTech.com
+title: CityPlanningTech.com
 img: houstonskyline.png
 ---
 <b>Welcome to CityPlanningTech.com</b> This is a blog dedicated to Urban Planning Issues in Austin and Houston along with emerging Urban Planning Technologies. I will also be displaying some portfolio items from [http://charlesleroythomasjr.tech/]http://charlesleroythomasjr.tech/
