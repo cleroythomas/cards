@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bee Caves Grumbles Tract Denied"
+title:  "Bee Caves Grumbles Tract"
 categories: jekyll update
 img: beecaves_grumbletract_020417_as.png
 categories: Austin
